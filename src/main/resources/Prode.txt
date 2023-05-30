@@ -1,0 +1,32 @@
+Juana;1;Chile;Egipto;1;
+Juana;1;Peru;España;0;
+Juana;1;Estados Unidos;Canada;1;
+Juana;1;Japon;China;2;
+Juana;2;Chile;España;2;
+Juana;2;Estados Unidos;Japon;1;
+Juana;3;España;Chile;1;
+Martin;1;Chile;Egipto;2;
+Martin;1;Peru;España;1;
+Martin;1;Estados Unidos;Canada;1;
+Martin;1;Japon;China;0;
+Martin;2;Chile;España;2;
+Martin;2;Estados Unidos;Japon;2;
+Martin;3;España;Chile;1;
+Gloria;1;Chile;Egipto;1;
+Gloria;1;Peru;España;2;
+Gloria;1;Estados Unidos;Canada;0;
+Gloria;1;Japon;China;1;
+Gloria;2;Chile;España;1;
+Gloria;2;Estados Unidos;Japon;1;
+Gloria;3;España;Chile;1;
+Rene;1;Chile;Egipto;1;
+Rene;1;Peru;España;2;
+Rene;1;Estados Unidos;Canada;2;
+Rene;1;Japon;China;1;
+Rene;2;Chile;España;2;
+Rene;2;Estados Unidos;Japon;2;
+Rene;3;España;Chile;2;
+a;4;a;a;4;
+
+
+
